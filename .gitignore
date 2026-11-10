@@ -1,0 +1,6 @@
+data/
+out/
+out_play/
+.venv/
+__pycache__/
+*.png
